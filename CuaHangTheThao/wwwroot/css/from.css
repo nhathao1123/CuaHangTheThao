@@ -1,0 +1,17 @@
+﻿.Form {
+    border: 3px solid black;
+    padding: 20px;
+}
+
+.table {
+    border: 3px solid black;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none
+}
+
+.edit {
+    color: firebrick;
+}
